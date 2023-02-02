@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Jims+Chacko.Welcome+to+my+github+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Jims+Chacko.Great+Day!)](https://git.io/typing-svg)
 
 <!--
 **jimschacko/jimschacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
