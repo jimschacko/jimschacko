@@ -8,7 +8,7 @@ Here are some ideas to get
 - 🔭 I’m currently worki
 - 🌱 I’m currently lear
 - 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with.
+- 🤔 I’m looking for help 
 - 💬 Ask me about
 - 📫 How to reach me:
 - 😄 Pronouns: 
