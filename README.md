@@ -12,7 +12,7 @@
 
 </p>
     
-- 🔭 I’m currently working on **OpenCv** projects
+- 🔭 I’m currently working on **LangChain** projects
 
 - 🌱 I’m currently learning about **LangChain,HuggingFace** <!-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app) -->
 
