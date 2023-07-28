@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning about **LangChain,HuggingFace** <!-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app) -->
 
-- 💬 Ask me about **Data Science, ML, DL, AI** <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing]) -->
+- 💬 Ask me about **Data Science, Machine Learning and AI** <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing]) -->
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
