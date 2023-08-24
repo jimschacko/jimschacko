@@ -12,7 +12,7 @@
 
 </p>
     
-- 🔭 I’m currently working on **LangChain** projects
+- 🔭 I’m currently working on **LangChain, Generative AI** projects
 
 - 🌱 I’m currently learning about **Generative AI** <!-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app) -->
 
