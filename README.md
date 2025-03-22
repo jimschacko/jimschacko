@@ -12,7 +12,7 @@
 
 </p>
     
-- 🔭 Crafting a new story!! CTO @ Helium16!
+- 🔭 Crafting a new story!! CTO-Cofounder @ Helium16!
 
 - 🌱 I’m currently learning about **Agentic AI** <!-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app) -->
 
