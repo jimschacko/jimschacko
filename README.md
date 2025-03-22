@@ -12,9 +12,9 @@
 
 </p>
     
-- 🔭 I’m currently working on **LangChain, Generative AI** projects.
+- 🔭 Crafting a new story!! CTO @ Helium16!
 
-- 🌱 I’m currently learning about **Generative AI** <!-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app) -->
+- 🌱 I’m currently learning about **Agentic AI** <!-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app) -->
 
 - 💬 Ask me about **Data Science, Machine Learning and AI** <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing]) -->
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
